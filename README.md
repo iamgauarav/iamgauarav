@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a passionate software engineer with a strong focus on App development.<br><br>🚀 I love working on challenging projects and building scalable applications.<br><br>🌟 My favorite programming languages are Java, React and Javascript, but I'm always learning new things and exploring different technologies.<br><br>🎓 I hold a Bachelor's degree in Information Science & Engineering from VTU.<br><br>📍 I'm currently based in NITTE.<br><br>📚 In my free time, I enjoy reading about technology and learning new programming languages.
+👨‍💻 I'm a passionate software engineer with a strong focus on App/Web development.<br><br>🚀 I love working on challenging projects and building scalable applications.<br><br>🌟 My favorite programming languages are Java, React and Javascript, but I'm always learning new things and exploring different technologies.<br><br>🎓 I hold a Bachelor's degree in Information Science & Engineering from VTU.<br><br>📍 I'm currently based in NITTE.<br><br>📚 In my free time, I enjoy reading about technology and learning new programming languages.
 
 
 ## 🌐 Socials:
